@@ -60,9 +60,10 @@ body {
 }
 /*MEDIA QUERY (medium)*/
 @media screen and (min-width:941px){
-    body{
+    body {
         grid-template-columns: 1fr 1fr;
     }
 }
 /*MEDIA QUERY (large)*/
+
 /*MEDIA QUERY (xl)*/
