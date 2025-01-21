@@ -54,14 +54,10 @@ table {
     --crust:#C27D45;
 }
 /*Global Style*/
-nav {
-	text-align: center;
-}
 nav a{
 	text-decoration: none;
 	color: var(--Chocolate-chip);
 	font-size: 15px;
-	background-color: var(--dough);
 }
 h1 {
 	background-color: var(--dough);
@@ -84,6 +80,12 @@ p {
 	font-size: 15px;
 	margin: 10px;
 	padding: 10px;
+}
+li {
+	list-style: circle;
+	color: var(--Chocolate-chip);
+	margin-left: 40px;
+	padding: 5px;
 }
 body {
     display: grid;
